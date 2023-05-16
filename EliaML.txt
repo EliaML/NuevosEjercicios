@@ -1,1 +1,3 @@
-Este archivo es un ejercicio de prueba de git
+Este archivo es un ejercicio de prueba de git, 
+
+modificamos el archivo.
